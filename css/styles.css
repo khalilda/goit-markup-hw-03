@@ -364,6 +364,10 @@ img {
 }
 
 .second-section-sizes {
+    padding-left: 16px;
+    padding-right: 54px;
+    padding-bottom: 32px;
+    margin-top: 8px;
     border: 1px solid #E7E9FC;
 }
 

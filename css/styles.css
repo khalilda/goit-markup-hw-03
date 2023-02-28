@@ -364,10 +364,11 @@ img {
 }
 
 .second-section-sizes {
+    padding-top: 32px;
     padding-left: 16px;
     padding-right: 54px;
     padding-bottom: 32px;
-    margin-top: 8px;
+    
     border: 1px solid #E7E9FC;
 }
 
@@ -384,8 +385,8 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--contact-color);
-    margin-bottom: 32px;
-    
+
+
 }
 
 
